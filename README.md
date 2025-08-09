@@ -34,5 +34,4 @@ This tutorial walks through setup and usage of the Pixtral 12B model on IBM’s 
 - Jupyter Notebook
 
 ## References 🔗
-- [Mistral AI Pixtral 12B Documentation](https://mistral.ai/)
 - [IBM watsonx.ai Documentation](https://www.ibm.com/products/watsonx-ai)
